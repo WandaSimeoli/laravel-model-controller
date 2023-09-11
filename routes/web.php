@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\Guest\PageController;
+use App\Http\Controllers\Guest\PageController as PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
